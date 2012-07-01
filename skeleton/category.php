@@ -13,7 +13,7 @@ st_before_content($columns='');
 ?>
 	
 <h1><?php
-		printf( __( 'Category Archives: %s', 'skeleton' ), single_cat_title( '', false ) );
+		printf( __( '%s', 'skeleton' ), single_cat_title( '', false ) );
 	?></h1>
 	<?php
 		$category_description = category_description();

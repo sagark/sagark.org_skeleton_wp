@@ -1909,14 +1909,6 @@ img.scale-with-grid {
 	.add-top { margin-top: 20px !important; }
 
 
-.resize {
-    background: url(images/resize.png) repeat scroll 0 0 transparent;
-    bottom: 0;
-    height: 80px;
-    position: fixed;
-    right: 0;
-    width: 80px;
-}
 .bypostauthor,.gallery-caption {}
 
 /* @end */

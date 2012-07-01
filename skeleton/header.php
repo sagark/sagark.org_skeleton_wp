@@ -103,7 +103,6 @@ html.ie #author-info {behavior: url("<?php echo get_template_directory_uri();?>/
 </head>
 <body <?php body_class(); ?>>
 	<div id="wrap" class="container">
-	<div class="resize"></div>
 	<?php
 	st_above_header();
 	st_header();
