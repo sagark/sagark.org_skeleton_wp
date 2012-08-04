@@ -1765,13 +1765,13 @@ body.dark #comments {background: url(images/dark/divider.png) repeat-x right top
 body.page-template-onecolumn-page-php #comments .commentlist li .comment-meta {}
 
 #comments .commentlist li li { margin:0 0 20px 25px; }
-#comments .commentlist li li .comment-meta{ width:445px; }
+#comments .commentlist li li .comment-meta{ width:845px; }
 #comments .commentlist li li li {margin:0 0 20px 25px;}
-#comments .commentlist li li li .comment-meta{ width:420px; }
+#comments .commentlist li li li .comment-meta{ width:820px; }
 #comments .commentlist li li li li {margin:0 0 20px 25px; }
-#comments .commentlist li li li li .comment-meta{ width:395px; }
+#comments .commentlist li li li li .comment-meta{ width:795px; }
 #comments .commentlist li li li li li {margin:0 0 20px 25px;}
-#comments .commentlist li li li li li .comment-meta{ width:370px; }
+#comments .commentlist li li li li li .comment-meta{ width:770px; }
 
 #comments .single-comment { margin-bottom:20px; }
 #comments .comment-author { float:left; margin: 0px 10px 6px 0px; display:inline; width:50px; }
